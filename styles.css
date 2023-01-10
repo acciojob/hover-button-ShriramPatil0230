@@ -8,7 +8,7 @@ bitton#btn{
 }
 button#btn:hover{
 	background:yellow;
-	colour:black;
+	font-colour:black;
 	border:none;
 	border-radius:30px;
 }
