@@ -1,14 +1,14 @@
 
 /* Your CSS Code here. */
 bitton#btn{
-	background: black;
-	font-colour: white;
+	background:black;
+	font-colour:white;
 	border:none;
-	border-radius:5px;
+	border-radius:30px;
 }
 button#btn:hover{
 	background:yellow;
 	font-colour:black;
 	border:none;
-	border-radius:30px;
+	border-radius:5px;
 }
