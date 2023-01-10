@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 bitton#btn{
 	background: black;
-	colour: white;
+	font-colour: white;
 	border:none;
 	border-radius:5px;
 }
